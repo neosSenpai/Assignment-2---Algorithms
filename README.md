@@ -1,4 +1,4 @@
-# Assignment 3 - Algorithms 
+# Assignment 2 - Algorithms 
 
 ## Question #1 - Lecture 8
 Order the following functions by asymptotic growth rate and explain your answer:
