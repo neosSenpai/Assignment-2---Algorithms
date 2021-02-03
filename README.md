@@ -1,5 +1,6 @@
 # Assignment 2 - Algorithms 
-
+## Assignment 2 Answers
+See Project2.pdf for solutions to the below questions. Problem 1 required the use of R and R markdown to illustrate fuction growth rate.
 ## Question #1 - Lecture 8
 Order the following functions by asymptotic growth rate and explain your answer:
 * 4n log n + 2n
